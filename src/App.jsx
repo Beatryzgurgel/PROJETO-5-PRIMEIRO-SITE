@@ -1,4 +1,4 @@
-import imagem from './public/imagem.jpg'
+import imagem from '../public/imagem.jpg'
 
 export default function App() {
   return (
